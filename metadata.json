@@ -1,0 +1,5 @@
+{
+  "name": "Detector de Felicidad Conyugal",
+  "description": "Una aplicación divertida para ayudarte a descifrar el estado de ánimo de tu esposa a través de un cuestionario y obtener consejos generados por IA.",
+  "requestFramePermissions": []
+}
